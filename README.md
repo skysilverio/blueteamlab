@@ -3,7 +3,8 @@
 
 
 <h2>Description</h2>
-<body> The project will detail the creation of a Blue Team lab environment. It will consist of the below. I will continuously add more to the lab environment as I progress.
+<body> The project will detail the creation of a Blue Team lab environment. It will consist of the below. I will continuously add more to the lab environment as I progress. </body>
+<body>
   - Firewall
   - Malware Analysis (MA) VMs (one for Linux and one for Windows)
   - Windows 7 host
