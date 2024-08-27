@@ -2,19 +2,21 @@
 
 
 
-<h2>Description</h2>
-<body> The project will detail the creation of a Blue Team lab environment. It will consist of the below. I will continuously add more to the lab environment as I progress. </body>
 <body>
-  - Firewall
-  - Malware Analysis (MA) VMs (one for Linux and one for Windows)
-  - Windows 7 host
-  - Windows 10 host
-  - Windows Server AD
-  - Linux Server(s)
-  - Kali Linux
-  - DFIR
-  - SIEM
-  - Vulnerability Scanner
+  <h2>Description</h2>
+  <p>The project will detail the creation of a Blue Team lab environment. It will consist of the following components. I will continuously add more to the lab environment as I progress.</p>
+  <ul>
+    <li>Firewall</li>
+    <li>Malware Analysis (MA) VMs (one for Linux and one for Windows)</li>
+    <li>Windows 7 host</li>
+    <li>Windows 10 host</li>
+    <li>Windows Server AD</li>
+    <li>Linux Server(s)</li>
+    <li>Kali Linux</li>
+    <li>DFIR</li>
+    <li>SIEM</li>
+    <li>Vulnerability Scanner</li>
+  </ul>
 </body>
 
 <br />
