@@ -4,7 +4,7 @@
 
 <body>
   <h2>Description</h2>
-  <p>The project will detail the creation of a Blue Team lab environment. It will consist of the following components. I will continuously add more to the lab environment as I progress. The lab environment will serve as a building block to gain the necessary experience in Cybersecurity.</p>
+  <p>This project involves creating a Blue Team lab environment. The initial components of the lab are listed below, and more will be added as the project progresses. The lab will serve as a foundation for gaining hands-on experience in cybersecurity. Each part of the home lab will be detailed in separate sections. This page will include a summary of each component along with a link to the detailed steps taken to create it.</p>
   <ul>
     <li>Firewall</li>
     <li>Malware Analysis (MA) VMs (one for Linux and one for Windows)</li>
@@ -31,8 +31,21 @@
 - <b>REMnux</b>
 - <b>Kali Linux</b>
 
-<h2>Environments Used </h2>
+<h2>Environments Used</h2>
 
 - <b>Windows 10</b>
 - <b>Windows 7</b>
 - <b>Windows Server 2019</b>
+
+<h2>Part 1 - Network Topology</h2>
+<p>Below is the network topology of the lab environment. Since I will be using Oracle VirtualBox, I will also need to create separate VLANs and subnets. I color-coded and labeled each VLAN to show the separate roles and functions for each VLAN.</p>
+
+<b>VLANs</b>
+<p>I have listed and provided an image of my VLANs set-up and their intended functions. Each VLAN are all on different subnets and will also be shown.</p>
+  <ul>
+    <li>VLAN31 (Local Management)</li> - 
+    <li>VLAN13 (Corporate WAN)</li>
+    <li>VLAN232 (Corporate LAN)</li>
+    <li>VLAN173 (Security)</li>
+    <li>VLAN155 (Isolated LAN)</li>
+  </ul>
