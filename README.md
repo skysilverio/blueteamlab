@@ -40,12 +40,4 @@
 <h2>Part 1 - Network Topology</h2>
 <p>Below is the network topology of the lab environment. Since I will be using Oracle VirtualBox, I will also need to create separate VLANs and subnets. I color-coded and labeled each VLAN to show the separate roles and functions for each VLAN.</p>
 
-<b>VLANs</b>
-<p>I have listed and provided an image of my VLANs set-up and their intended functions. Each VLAN are all on different subnets and will also be shown.</p>
-  <ul>
-    <li>VLAN31 (Local Management)</li> - 
-    <li>VLAN13 (Corporate WAN)</li>
-    <li>VLAN232 (Corporate LAN)</li>
-    <li>VLAN173 (Security)</li>
-    <li>VLAN155 (Isolated LAN)</li>
-  </ul>
+<img src: "Network Topology.jpg">
