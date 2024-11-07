@@ -40,4 +40,4 @@
 <h2>Part 1 - Network Topology</h2>
 <p>Below is the network topology of the lab environment. Since I will be using Oracle VirtualBox, I will also need to create separate VLANs and subnets. I color-coded and labeled each VLAN to show the separate roles and functions for each VLAN.</p>
 
-<img src: "[Network Topology.jpg](https://github.com/skysilverio/blueteamlab/blob/main/Network%20Topology.png)">
+<img src="https://github.com/skysilverio/blueteamlab/blob/main/Network%20Topology.png" alt="Network Topology" style="width:100%; height:auto;">
