@@ -4,7 +4,7 @@
 
 <body>
   <h2>Description</h2>
-  <p>This project involves creating a Blue Team lab environment. The initial components of the lab are listed below, and more will be added as the project progresses. The lab will serve as a foundation for gaining hands-on experience in cybersecurity. Each part of the home lab will be detailed in separate sections. This page will include a summary of each component along with a link to the detailed steps taken to create it.</p>
+  <p>This project involves creating a Blue Team lab environment. The initial components of the lab are listed below, and more will be added as the project progresses. The lab will serve as a foundation for gaining hands-on experience in cybersecurity. This page will include a summary of each component along with a link to the detailed steps taken to create it.</p>
   <ul>
     <li>Firewall</li>
     <li>Malware Analysis (MA) VMs (one for Linux and one for Windows)</li>
@@ -53,3 +53,5 @@
 <img src="https://github.com/skysilverio/blueteamlab/blob/main/Tsurugi-Linux%20Desktop.png" alt="TsurugiVM" style="width:100%; height:auto;">
 
 <h2>Part 4 - Malware Analysis</h2>
+<p>I decided to use <a href="[https://tsurugi-linux.org](https://remnux.org/)">REMnux</a> as the Malware Analysis VM. You will also need to install FlareVM.</p>
+
